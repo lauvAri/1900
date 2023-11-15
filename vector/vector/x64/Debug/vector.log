@@ -1,0 +1,3 @@
+﻿  vector.cpp
+C:\code\vector\vector\vector.cpp(19,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  vector.vcxproj -> C:\code\vector\x64\Debug\vector.exe
